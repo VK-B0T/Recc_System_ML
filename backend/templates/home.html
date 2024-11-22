@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PC Build Homepage</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+<body background="{{url_for('static', filename='bg.jpg') }}">
+    <header class="navbar">
+        <div class="logo">PCPART Recommender</div>
+        <nav>
+        </nav>
+        <div class="auth-links">
+            <a href="#">Log In</a>
+            <a href="#">Register</a>
+        </div>
+    </header>
+
+    <main class="hero-section">
+        <h1>Pick Parts. Build Your PC. Compare and Share.</h1>
+        <p>We provide part selection, pricing, and compatibility guidance for do-it-yourself computer builders.</p>
+        <img src="{{url_for('static', filename='click.png') }}" class="click">
+        <button class="btn" onclick="navigateToForm()">Start Your Build</button>
+    </main>
+
+    <script>
+        function navigateToForm() {
+            window.location.href = "form.html";
+        }
+    </script>
+</body>
+</html>

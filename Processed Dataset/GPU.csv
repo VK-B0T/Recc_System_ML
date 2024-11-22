@@ -1,0 +1,270 @@
+GPU_Name,brand,model,memory,memory_interface,clock_speed,Price,VRAM,Clock_Speed,Category,Usage
+MSI Gaming GeForce RTX 3090 24GB GDRR6X 384-Bit HDMI/DP Nvlink Tri-Frozr 2 Ampere Architecture OC Graphics Card (RTX 3090 GAMING X TRIO 24G),MSI, RTX 3090 GAMING X TRIO 24G , 24 GB ,6, 1785 MHz ,103199.2,24,1785,High-Performance,High-End
+"EVGA GeForce RTX 3090 FTW3 Ultra Gaming, 24GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate",EVGA, RTX 3090 FTW3 Ultra , 24 GB ,5, 1800 MHz ,95999.2,24,1800,High-Performance,High-End
+"ASUS ROG Strix NVIDIA GeForce RTX 3090 White OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1, DisplayPort 1.4a",ASUS, ROG Strix RTX 3090 OC Edition , 24 GB ,5, 1890 MHz ,143599.2,24,1890,High-Performance,High-End
+MSI Gaming GeForce RTX 3090 24GB GDRR6X 384-Bit HDMI/DP 1875 MHz Ampere Architecture OC Graphics Card (RTX 3090 Suprim X 24G),MSI, RTX 3090 SUPRIM X 24G , 24 GB ,5, 1875 MHz ,161376.8,24,1875,High-Performance,High-End
+"GIGABYTE AORUS GeForce RTX 3090 Xtreme 24G Graphics Card, Max Covered Cooling, 24GB 384-bit GDDR6X Video Card",Gigabyte, AORUS RTX 3090 Xtreme 24G , 24 GB ,5, 1860 MHz ,271999.2,24,1860,High-Performance,High-End
+"ASUS TUF Gaming NVIDIA GeForce RTX 3090 OC Edition Graphics Card- PCIe 4.0, 24GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings",ASUS, TUF Gaming RTX 3090 OC Edition , 24 GB ,5, 1770 MHz ,99920,24,1770,High-Performance,High-End
+"GIGABYTE AORUS GeForce RTX 3090 Xtreme WATERFORCE 24G Graphics Card, WATERFORCE All-in-One Cooling System, 24GB 384-bit GDDR6X",Gigabyte, AORUS RTX 3090 Xtreme Waterforce 24G , 24 GB ,5, 1785 MHz ,544000,24,1785,High-Performance,High-End
+"EVGA 24G-P5-3975-KR GeForce RTX 3090 XC3 Ultra Gaming, 24GB GDDR6X, iCX3 Cooling, ARGB LED, Metal Backplate",EVGA, RTX 3090 XC3 Ultra , 24 GB ,5, 1725 MHz ,103920,24,1725,High-Performance,High-End
+"Gigabyte GeForce RTX 3090 GAMING OC 24G Graphics Card, 3x WINDFORCE Fans, 24GB 384-Bit GDDR6X, GV-N3090GAMING OC-24GD Video Card",Gigabyte, RTX 3090 Gaming OC 24G , 24 GB ,5, 1755 MHz ,103920,24,1755,High-Performance,High-End
+MSI Gaming GeForce RTX 3090 24GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3090 VENTUS 3X 24G OC),MSI, RTX 3090 VENTUS 3X 24G OC , 24 GB ,5, 1725 MHz ,101592,24,1725,High-Performance,High-End
+"ZOTAC Gaming GeForce RTX 3090 Trinity OC 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling",ZOTAC, RTX 3090 Trinity OC 24GB , 24 GB ,5, 1710 MHz ,97200,24,1710,High-Performance,High-End
+MSI Gaming GeForce RTX 3080 Ti 12GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ti Gaming X Trio 12G),MSI, RTX 3080 Ti Gaming X Trio 12G , 12 GB ,5, 1770 MHz ,76799.2,12,1770,High-Performance,Gaming or High-end
+"EVGA GeForce RTX 3080 Ti FTW3 Ultra Gaming, 12G-P5-3967-KR, 12GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate",EVGA, RTX 3080 Ti FTW3 Ultra , 12 GB ,5, 1800 MHz ,86760,12,1800,High-Performance,Gaming or High-end
+EVGA GeForce RTX 3080 Ti XC3 ULTRA GAMING 12G-P5-3955-KR 12GB GDDR6X Graphics Card,EVGA, RTX 3080 Ti XC3 ULTRA , 12 GB ,5, 1725 MHz ,79920,12,1725,High-Performance,Gaming or High-end
+MSI Gaming GeForce RTX 3080 Ti 12GB GDRR6X 320-Bit HDMI/DP Nvlink Tri-Frozr 2 Ampere Architecture OC Graphics Card (RTX 3080 Ti Ventus 3X 12G OC),MSI, RTX 3080 Ti Ventus 3X 12G OC , 12 GB ,5, 1695 MHz ,74399.2,12,1695,Basic-Level,Gaming or High-end
+Gigabyte GeForce RTX 3080 Ti VISION OC 12GB Graphics Card,Gigabyte, RTX 3080 Ti VISION OC 12GB , 12 GB ,5, 1770 MHz ,96239.2,12,1770,High-Performance,Gaming or High-end
+"GIGABYTE AORUS GeForce RTX 3080 Ti Xtreme 10G Graphics Card, Max Covered Cooling, 12GB 384-bit GDDR6X Video Card",Gigabyte, AORUS RTX 3080 Ti Xtreme 10G , 12 GB ,5, 1770 MHz ,135999.2,12,1770,High-Performance,Gaming or High-end
+ZOTAC GAMING GEFORCE RTX 3080 Ti Trinity OC 12GB,ZOTACGAMING, RTX 3080 Ti Trinity OC 12GB , 12 GB ,5, 1695 MHz ,83999.2,12,1695,High-Performance,Gaming or High-end
+"INNO3D GeForce RTX 3080 Ti iChill X4 LHR, 12288 MB GDDR6X",Inno3D, RTX 3080 Ti iChill X4 , 12 GB ,5, 1710 MHz ,136400,12,1710,High-Performance,Gaming or High-end
+XFX Speedster MERC319 Radeon RX 6800XT Black 16GB GDDR6 HDMI DisplayPort USB-C PCIe 4.0 Gaming Graphics Card,XFX, Speedster MERC319 RX-68XTACBD9 , 16 GB ,4, 2360 MHz ,135919.2,16,2360,High-Performance,High-End
+Sapphire Radeon RX 6800 XT Pulse OC 16G Graphics Card,SAPPHIRE, RX 6800 XT Pulse OC , 16 GB ,4, 2310 MHz ,55999.2,16,2310,Basic-Level,High-End
+"PowerColor Red Devil AMD Radeonâ?RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNAâ?2, Raytracing, PCI Express 4.0",PowerColor, Red Devil RX 6800XT 16GB OC , 16 GB ,4, 2340 MHz ,59399.2,16,2340,Basic-Level,High-End
+MSI Gaming Radeon RX 6800 XT 16GB GDRR6 256-Bit HDMI/DP 2285 MHz RDNA 2 Architecture OC Graphics Card (RX 6800 XT Gaming X Trio 16G),MSI, RX 6800 XT Gaming X Trio 16G , 16 GB ,4, 2285 MHz ,107992,16,2285,High-Performance,High-End
+ASRock RX 6800 XT PG D 16G OC AMD Radeon RX6800XT Graphics Board 16GB,ASRock, RX 6800 XT PG D , 16 GB ,4, 2310 MHz ,56120,16,2310,Basic-Level,High-End
+Sapphire Nitro+ AMD Radeon RX 6800 XT SE PCIe 4.0 Gaming Graphics Card with 16GB GDDR6,SapphireTechnology, RX 6800 XT Nitro+ , 16 GB ,4, 2190 MHz ,107821.6,16,2190,High-Performance,High-End
+"ASUS ROG Strix LC AMD Radeon RX 6800 XT OC Edition Gaming Graphics Card ( PCIe 4.0, 16GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Full-Coverage Cold Plate",ASUS, ROG Strix LC RX 6800 XT OC Edition , 16 GB ,4, 2360 MHz ,83999.2,16,2360,High-Performance,High-End
+"ASUS TUF Gaming NVIDIA GeForce RTX 3080 OC Edition Graphics Card (PCIe 4.0, 10GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-Grade Certification, GPU Tweak II)",ASUS, GeForce RTX 3080 OC Edition , 10 GB ,4, 1740 MHz ,79600,10,1740,Basic-Level,Gaming or High-end
+"ASUS TUF Gaming NVIDIA GeForce RTX 3080 Graphics Card (PCIe 4.0, 10GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-Grade Certification, GPU Tweak II)",ASUS, GeForce RTX 3080 , 10 GB ,4, 1710 MHz ,151917.6,10,1710,Basic-Level,Gaming or High-end
+PNY GeForce RTX 3080 10GB XLR8 Gaming Uprising Epic-X RGB Triple Fan Graphics Card,PNY, GeForce RTX 3080 , 10 GB ,4, 1710 MHz ,71920,10,1710,Basic-Level,Gaming or High-end
+MSI Gaming GeForce RTX 3080 10GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X 10G OC),MSI, GeForce RTX 3080 VENTUS 3X , 10 GB ,4, 1710 MHz ,208000,10,1710,Basic-Level,Gaming or High-end
+"ZOTAC GAMING GeForce RTX 3080 Trinity OC 10GB GDDR6X 320-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling",ZOTAC, RTX 3080 Trinity OC 10GB , 10 GB ,5, 1725 MHz ,116720,10,1725,Basic-Level,Gaming or High-end
+MSI Gaming GeForce RTX 3080 10GB GDRR6X 320-Bit HDMI/DP 1920 MHz Ampere Architecture OC Graphics Card,MSI, RTX 3080 Suprim X 10G , 10 GB ,5, 1920 MHz ,111999.2,10,1920,Basic-Level,Gaming or High-end
+"PowerColor Fighter AMD Radeon RX 6800 Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0",PowerColor, Fighter Radeon RX 6800 , 16 GB ,4, 2155 MHz ,95440,16,2155,High-Performance,High-End
+"PowerColor Red Devil AMD Radeon RX 6800 Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0",PowerColor, Red Devil RX 6800 OC , 16 GB ,4, 2190 MHz ,111999.2,16,2190,High-Performance,High-End
+Sapphire Nitro+ AMD Radeon RX 6800 PCIe 4.0 Gaming Graphics Card with 16GB GDDR6,SapphireTechnology, RX 6800 Nitro+ , 16 GB ,4, 2190MHz ,80773.6,16,2190,High-Performance,High-End
+"PowerColor Red Dragon AMD Radeon RX 6800 Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0",PowerColor, Red Dragon RX 6800 , 16 GB ,4, 2170 MHz ,44984.8,16,2170,Basic-Level,High-End
+XFX Speedster QICK319 AMD Radeon RX 6800 Black Gaming Graphics Card with 16GB GDDR6 HDMI 3xDP,XFX, Speedster QICK319 RX 6800 , 16 GB ,4, 2190 MHz ,172239.2,16,2190,High-Performance,High-End
+"ASUS TUF Gaming AMD Radeon RX 6800 OC Edition Graphics Card (PCIe 4.0, 16GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings",ASUS, TUF RX 6800 OC Edition , 16 GB ,4, 2190 MHz ,61199.2,16,2190,Basic-Level,High-End
+Sapphire 11305-02-20G Pulse AMD Radeon RX 6800 PCIe 4.0 Gaming Graphics Card with 16GB GDDR6,SapphireTechnology, RX 6800 Pulse , 16 GB ,4, 2170 MHz ,47999.2,16,2170,Basic-Level,High-End
+NVIDIA Titan RTX Graphics Card,NVIDIA, TITAN RTX , 24 GB ,4, 1770 MHz ,271999.2,24,1770,High-Performance,High-End
+ASUS ROG STRIX GeForce RTX 2080TI-O11G Overclocked 11G GDDR6 HDMI DP 1.4 USB Type-C Gaming Graphics Card,ASUS, ROG STRIX GeForce RTX 2080TI , 11 GB ,4, 1665 MHz ,263999.2,11,1665,Basic-Level,Gaming or High-end
+NVIDIA GEFORCE RTX 2080 Ti Founders Edition,NVIDIA, GeForce RTX 2080 Ti , 11 GB ,4, 1635 MHz ,143840,11,1635,Basic-Level,Gaming or High-end
+MSI GAMING GeForce RTX 2080 Ti GDRR6 352-bit HDMI/DP/USB Ray Tracing Turing Architecture Graphics Card,MSI, GeForce RTX 2080 Ti GAMING X TRIO , 11 GB ,4, 1755 MHz ,59999.2,11,1755,Basic-Level,Gaming or High-end
+ZOTAC GAMING GeForce RTX 2080 Ti AMP 11GB GDDR6 352-Bit SPECTRA RGB LED Metal Backplate Graphics Card,ZOTAC, ZT-T20810D-10P , 11 GB ,4, 1665 MHz ,63200,11,1665,Basic-Level,Gaming or High-end
+"EVGA GeForce RTX 2080 Ti Ftw3 Ultra, Overclocked, 2.75 Slot Extreme Cool Triple + iCX2, 65C Gaming, RGB",EVGA, GeForce RTX 2080 Ti , 11 GB ,4, 1755 MHz ,210320,11,1755,Basic-Level,Gaming or High-end
+"EVGA GeForce RTX 2080 Ti Black Edition Gaming, 11GB GDDR6, Dual HDB Fans & RGB LED Graphics Card",EVGA, RTX 2080 Ti Black Edition , 11 GB ,4, 1545 MHz ,127996,11,1545,Basic-Level,Gaming or High-end
+ZOTAC Gaming GeForce RTX 2080 Ti Twin Fan 11GB GDDR6 352-bit Spectra RGB LED/Metal Backplate Graphics Card,ZOTAC, RTX 2080 Ti Twin Fan , 11 GB ,4, 1545 MHz ,147016.8,11,1545,Basic-Level,Gaming or High-end
+"EVGA GeForce RTX 2080 Ti XC ULTRA GAMING, 11GB GDDR6, Dual HDB Fans & RGB LED Graphics Card",EVGA, RTX 2080 Ti XC Ultra , 11 GB ,4, 1650 MHz ,159999.2,11,1650,Basic-Level,Gaming or High-end
+MSI Gaming GeForce RTX 2080 Ti GDRR6 352-bit HDMI/DP/USB Ray Tracing Turing Architecture Graphics Card (RTX 2080 TI Ventus 11G OC),MSI, RTX 2080 TI Ventus 11G OC , 11 GB ,4, 1635 MHz ,63920,11,1635,Basic-Level,Gaming or High-end
+PNY GeForce RTX 2080 Ti 11GB XLR8 Gaming Overclocked Edition Graphics Card,PNY, RTX 2080 Ti 11GB XLR8 , 11 GB ,4, 1635 MHz ,191120,11,1635,Basic-Level,Gaming or High-end
+"EVGA GeForce RTX 3070 Ti FTW3 Ultra Gaming, 08G-P5-3797-KL, 8GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate",EVGA, RTX 3070 Ti FTW3 Ultra , 8 GB ,5, 1860 MHz ,55836,8,1860,Basic-Level,Work/Home
+"GIGABYTE GeForce RTX 3070 Ti Gaming OC 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 256-bit GDDR6X Video Card",Gigabyte, RTX 3070 Ti OC 8G , 8 GB ,5, 1830 MHz ,54720,8,1830,Basic-Level,Work/Home
+"EVGA GeForce RTX 3070 Ti XC3 Ultra Gaming, 08G-P5-3785-KL, 8GB GDDR6X, iCX3 Cooling, ARGB LED, Metal Backplate",EVGA, RTX 3070 Ti XC3 Ultra , 8 GB ,5, 1815 MHz ,55916,8,1815,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce RTX 3070 Ti AMP Holo 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling",ZOTAC, RTX 3070 Ti AMP Holo , 8 GB ,5, 1830 MHz ,58640,8,1830,Basic-Level,Work/Home
+"ASUS ROG Strix NVIDIA GeForce RTX 3070 Ti OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design",ASUS, RTX 3070 Ti OC Edition , 8 GB ,5, 1845 MHz ,60720,8,1845,Basic-Level,Work/Home
+"ASUS TUF Gaming NVIDIA GeForce RTX 3070 Ti OC Edition Graphics Card (PCIe 4.0, 8GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings",ASUS, RTX 3070 Ti OC Edition , 8 GB ,5, 1815 MHz ,52399.2,8,1815,Basic-Level,Work/Home
+GeForce RTX 3070 Ti SUPRIM X 8G,MSI, RTX 3070Ti SUPRIM X 8G , 8 GB ,5, 1875 MHz ,75523.2,8,1875,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce RTX 3070 Ti Trinity 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling",ZOTAC, RTX 3070 Ti Trinity 8GB , 8 GB ,5, 1770 MHz ,55199.2,8,1770,Basic-Level,Work/Home
+PNY NVIDIA Quadro RTX 8000,PNY, Quadro RTX 8000 , 48 GB ,4, 1770 MHz ,427920,48,1770,High-Performance,High-End
+NVIDIA TITAN V VOLTA 12GB HBM2 VIDEO CARD,NVIDIA, Titan V , 12 GB ,7, 1455 MHz ,143999.2,12,1455,Basic-Level,Gaming or High-end
+"Radeon RX 6700 XT Eagle 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6",Gigabyte, RX 6700 XT Eagle , 12 GB ,4, 2581 MHz ,35999.2,12,2581,Basic-Level,Gaming or High-end
+Sapphire PULSE RX6700XT 12GB Gaming PCIe Video Card,SAPPHIRE, RX6700 XT 12GB Pulse , 12 GB ,4, 2581 MHz ,39120,12,2581,Basic-Level,Gaming or High-end
+"ASUS TUF Gaming AMD Radeon RX 6700 XT OC Edition Graphics Card AMD RDNA 2, PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Dual ball fan bearings",ASUS, RX 6700 XT OC Edition , 12 GB ,4, 2622 MHz ,59442.4,12,2622,Basic-Level,Gaming or High-end
+"AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6, AMD RDNA 2",XFX, RX-67TMYDFD8 , 12 GB ,4, 2615 MHz ,59999.2,12,2615,Basic-Level,Gaming or High-end
+"PowerColor Hellhound AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing",PowerColor, AXRX 6700XT 12GBD6-3DHL , 12 GB ,4, 2581 MHz ,49760,12,2581,Basic-Level,Gaming or High-end
+ASROCK RX6700 XT CLD 12GO,ASRock, Radeon RX6700XT CLD 12G , 12 GB ,4, 2581 MHz ,40792,12,2581,Basic-Level,Gaming or High-end
+ASRock RX 6700XT 12GB ASROCK Phantom Gaming,ASRock, Radeon RX6700XT PGD 12GO , 12 GB ,4, 2622 MHz ,58992,12,2622,Basic-Level,Gaming or High-end
+"Sapphire Technology Nitro+ AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6, AMD RDNA 2",SapphireTechnology, RX 6700 XT 12GB Nitro+ , 12 GB ,4, 2622 MHz ,39920,12,2622,Basic-Level,Gaming or High-end
+"ASUS ROG Strix AMD Radeon RX 6700 XT OC Edition Gaming Graphics Card AMD RDNA 2, PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 2.9-Slot, Super Alloy Power II, GPU Tweak II",ASUS, ROG Strix RX 6700 XT OC Edition , 12 GB ,4, 2622 MHz ,59918.4,12,2622,Basic-Level,Gaming or High-end
+"PowerColor Hellhound Spectral White AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1",PowerColor, Hellhound Spectral RX 6700 XT , 12 GB ,4, 2581 MHz ,88720,12,2581,High-Performance,Gaming or High-end
+"XFX Speedster MERC319 AMD Radeon RX 6700 XT Black Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2",XFX, Speedster MERC319 RX 6700 XT Black , 12 GB ,4, 2622 MHz ,88568.8,12,2622,High-Performance,Gaming or High-end
+"PowerColor Fighter AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0",PowerColor, RX 6700 XT Fighter , 12 GB ,4, 2581 MHz ,43999.2,12,2581,Basic-Level,Gaming or High-end
+MSI Gaming Radeon RX 6700 XT 192-bit 12GB GDDR6 DP/HDMI Dual Torx 3.0 Fans FreeSync DirectX 12 VR Ready Graphics Card,MSI, RX 6700 XT MECH 2X 12G , 12 GB ,4, 2620 MHz ,35999.2,12,2620,Basic-Level,Gaming or High-end
+"ASUS Dual AMD Radeon RX 6700 XT Standard Edition 12GB GDDR6 Gaming Graphics Card (AMD RDNA 2, PCIe 4.0, 12GB GDDR6 Memory, HDMI 2.1",ASUS, RX 6700 XT Standard Edition , 12 GB ,4, 2622 MHz ,39190.4,12,2622,Basic-Level,Gaming or High-end
+Gigabyte AORUS Radeon RX 6700 XT ELITE 12GB Graphics Card,Gigabyte, AORUS RX 6700 XT ELITE , 12 GB ,4, 2622 MHz ,108000,12,2622,High-Performance,Gaming or High-end
+NVIDIA GeForce RTX 2080 Super Founders Edition Graphics Card,NVIDIA, GeForce RTX 2080 SUPER , 8 GB ,4, 1815 MHz ,103996,8,1815,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2080 Super 8GB GDRR6 256-Bit HDMI/DP Nvlink Tri-Frozr Turing Architecture Overclocked Graphics Card,MSI, GeForce RTX 2080 SUPER , 8 GB ,4, 1845 MHz ,47920,8,1845,Basic-Level,Work/Home
+"EVGA, GeForce RTX 2080 Super Black Gaming, 8GB GDDR6",EVGA, GeForce RTX 2080 Super , 8 GB ,4, 1815 MHz ,95996,8,1815,Basic-Level,Work/Home
+"GIGABYTE GeForce RTX 2080 Super Windforce OC 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6",Gigabyte, GeForce RTX 2080 Super , 8 GB ,4, 1830 MHz ,38320,8,1830,Basic-Level,Work/Home
+ASUS GeForce RTX 2080 Super Overclocked 8G GDDR6 Dual-Fan EVO V2 Edition VR Ready HDMI DisplayPort 1.4 Graphics Card,ASUS, GeForce RTX 2080 SUPER , 8 GB ,4, 1860 MHz ,47920,8,1860,Basic-Level,Work/Home
+ASUS ROG Strix GeForce RTX 2080 Super Advanced Overclocked 8G GDDR6 HDMI DP 1.4 USB Type-C Gaming Graphics Card ,ASUS, ROG Strix GeForce RTX 2080 , 8 GB ,4, 1860 MHz ,303999.2,8,1860,Basic-Level,Work/Home
+"EVGA GeForce RTX 2080 Super FTW3 Ultra, Overclocked, 2.75 Slot Extreme Cool Triple + iCX2, 65C Gaming, RGB, Metal Backplate, 8GB",EVGA, GeForce RTX 2080 SUPER , 8 GB ,4, 1845 MHz ,55999.2,8,1845,Basic-Level,Work/Home
+"EVGA GeForce RTX 2080 Super XC Ultra, Overclocked, 2.75 Slot Extreme Cool Dual, 70C Gaming, RGB, Metal Backplate, 8GB GDDR6",EVGA, GeForce RTX 2080 Super , 8 GB ,4, 1845 MHz ,42055.2,8,1845,Basic-Level,Work/Home
+MSI GAMING GeForce RTX 2080 8GB GDRR6 256-bit HDMI/DP/USB Ray Tracing Turing Architecture Graphics Card (RTX 2080 VENTUS 8G OC),MSI, RTX 2080 VENTUS 8G OC , 8 GB ,4, 1800 MHz ,31920,8,1800,Basic-Level,Work/Home
+"Gigabyte AORUS GeForce RTX 2080 8G Graphics Card, 3X Stacked Windforce Fans, 8GB 256-Bit GDDR6, GV-N2080AORUS-8GC Video Card",Gigabyte, GV-N2080AORUS-8GC , 8 GB ,4, 1890 MHz ,52720,8,1890,Basic-Level,Work/Home
+"ZOTAC GAMING GeForce RTX 2080 Twin Fan 8GB GDDR6 256-bit Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, Metal Backplate, Spectra Lighting, ZT-T20800G-10P",ZOTAC, ZT-T20800G-10P , 8 GB ,4, 1710 MHz ,40000,8,1710,Basic-Level,Work/Home
+ASUS GeForce RTX 2080 O8G ROG STRIX OC Edition GDDR6 HDMI DP 1.4 Type-C graphics card,Asus, ROG Strix RTX2080 O8G Gaming , 8 GB ,4, 1890 MHz ,115999.2,8,1890,Basic-Level,Work/Home
+"Gigabyte GeForce RTX 2080 Windforce 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6, GV-N2080WF3-8GC Video Card",Gigabyte, GeForce RTX 2080 Windforce , 8 GB ,4, 1830 MHz ,39849.6,8,1830,Basic-Level,Work/Home
+"Gigabyte 8GD GeForce RTX 2070 Super Windforce OC 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6, Video Card",Gigabyte, Windforce OC , 8 GB ,4, 1785 MHz ,53440,8,1785,Basic-Level,Work/Home
+NVIDIA GeForce RTX 2070 Super Founders Edition Graphics Card,NVIDIA, Founders Edition , 8 GB ,4, 1770 MHz ,38320,8,1770,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2070 Super 8GB GDRR6 256-Bit HDMI/DP Nvlink Twin-Froze Turing Architecture Overclocked Graphics Card ,MSI, GeForce RTX 2070 SUPER , 8 GB ,4, 1800 MHz ,47199.2,8,1800,Basic-Level,Work/Home
+"EVGA GeForce RTX 2070 Super Gaming, 8GB GDDR6",EVGA, GeForce RTX 2070 SUPER , 8 GB ,4, 1770 MHz ,43120,8,1770,Basic-Level,Work/Home
+"EVGA GeForce RTX 2070 Super XC ultra gaming, 8GB GDDR6, Dual HDB Fans, RGB LED, Metal Backplate",EVGA, GeForce RTX 2070 SUPER , 8 GB ,4, 1800 MHz ,37996,8,1800,Basic-Level,Work/Home
+"Gigabyte GeForce RTX 2070 Super Gaming OC 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6, Video Card",Gigabyte, GeForce RTX 2070 Super , 8 GB ,4, 1815 MHz ,42399.2,8,1815,Basic-Level,Work/Home
+Asus GeForce RTX 2070 Super Overclocked 8G EVO GDDR6 Dual-Fan Edition VR Ready HDMI DisplayPort Gaming Graphics Card ,ASUS, GeForce RTX 2070 SUPER , 8 GB ,4, 1845 MHz ,39528.8,8,1845,Basic-Level,Work/Home
+"EVGA Corporation Graphics Card - GF RTX 2070 Super - 8 GB GDDR6 - PCIe 3.0 x16 - HDMI, 3 x DisplayPort, USB-C",EVGA, GeForce RTX 2070 SUPER , 8 GB ,4, 1770 MHz ,63920,8,1770,Basic-Level,Work/Home
+ASUS ROG STRIX GeForce RTX 2070 SUPER Advanced Overclocked 8G GDDR6 HDMI DisplayPort USB Type-C Gaming Graphics Card,ASUS, GeForce RTX 2070 SUPER , 8 GB ,4, 1830 MHz ,38748.8,8,1830,Basic-Level,Work/Home
+"EVGA GeForce RTX 2070 Super XC Gaming, 8GB GDDR6, Dual HDB Fans, RGB LED",EVGA, GeForce RTX 2070 SUPER , 8 GB ,4, 1800 MHz ,37579.2,8,1800,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2070 Super 8GB GDRR6 256-bit HDMI/DP NVLink Torx Fan Turing Architecture Overclocked G-SYNC Graphics Card ,MSI, GeForce RTX 2070 SUPER , 8 GB ,4, 1785 MHz ,32800,8,1785,Basic-Level,Work/Home
+"EVGA GeForce GTX 1080 Ti FTW3 Gaming, 11GB GDDR5X, iCX Technology - 9 Thermal Sensors & RGB LED G/P/M, 3X Async Fan Control, Optimized Airflow Design Graphics Card 11G-P4-6696-KR",EVGA, GeForce GTX 1080 Ti FTW3 Gaming , 11 GB ,3, 1683 MHz ,42320,11,1683,Basic-Level,Gaming or High-end
+"EVGA GeForce GTX 1080 Ti SC2 Gaming, 11GB GDDR5X, iCX Technology - 9 Thermal Sensors & RGB LED G/P/M, Asynch Fan, Optimized Airflow Design Graphics Card 11G-P4-6593-KR",EVGA, GeForce GTX 1080 Ti SC2 Gaming , 11 GB ,3, 1670 MHz ,41599.2,11,1670,Basic-Level,Gaming or High-end
+MSI GEFORCE GTX1080 TI GAMING X 11G,MSI, GeForce GTX 1080 Ti , 11 GB ,2, 1683 MHz ,33599.2,11,1683,Basic-Level,Gaming or High-end
+"Gigabyte Radeon Rx 5700 Xt Gaming OC 8G Graphics Card, PCIe 4.0, 8GB 256-Bit GDDR6, Video Card",Gigabyte, Radeon Rx 5700 Xt , 8 GB ,4, 1905 MHz ,41516,8,1905,Basic-Level,Work/Home
+PowerColor Navi AMD Radeon RX 5700 XT 8GB GDDR6 AXRX 5700Xt 8GBD6-M3DH,PowerColor, AXRX 5700XT 8GBD6-M3DH , 8 GB ,4, 1905 MHz ,71920,8,1905,Basic-Level,Work/Home
+Sapphire Radeon PULSE RX 5700 Xt 8GB GDDR6 HDMI/ TRIPLE DP OC w/ Backplate (UEFI) PCIe 4.0 Graphics Card,SapphireTechnology, Radeon RX 5700 XT , 8 GB ,4, 1925 MHz ,67279.2,8,1925,Basic-Level,Work/Home
+MSI Gaming Radeon Rx 5700 Xt Boost Clock: 1925 MHz 256-bit 8GB GDDR6 DP/HDMI Dual Fans Crossfire Freesync Navi Architecture Graphics Card,MSI, Radeon RX 5700 XT , 8 GB ,4, 1815 MHz ,30239.2,8,1815,Basic-Level,Work/Home
+XFX RX 5700 Xt Thicc III Ultra 8GB Boost Up to 2025MHz GDDR6 3xDP HDMI Graphics Card,XFX, Radeon RX 5700 XT , 8 GB ,4, 2025 MHz ,71996,8,2025,Basic-Level,Work/Home
+PowerColor Red Devil Radeon 8GB GDDR6 Graphics Card,PowerColor, Radeon RX 5700 XT , 8 GB ,4, 1905 MHz ,32960.8,8,1905,Basic-Level,Work/Home
+MSI Gaming Radeon Rx 5700 Xt 256-bit 8GB GDDR6 HDMI/DP Dual Fans Crossfire Freesync Navi Architecture Graphics Card ,MSI, Radeon RX 5700 XT , 8 GB ,4, 1980 MHz ,27120,8,1980,Basic-Level,Work/Home
+Sapphire Radeon NITRO+ RX 5700 XT 8GB GDDR6 Dual HDMI / Dual DP OC (UEFI) PCIe 4.0 Graphics Card,SapphireTechnology, Radeon NITRO+ , 8 GB ,4, 2010 MHz ,34631.2,8,2010,Basic-Level,Work/Home
+XFX RX 5700 XT Triple Dissipation 8GB GDDR6 3xDP HDMI Graphics Card,XFX, Radeon RX 5700 XT , 8 GB ,4, 1905 MHz ,71996,8,1905,Basic-Level,Work/Home
+ASRock VCX RX 5700 XT Challenger D 8G OC 8GB GDDR6 PCIE 256B HDMI 3xDP Retail ,ASRock, RX5700 XT , 8 GB ,4, 1905 MHz ,31440,8,1905,Basic-Level,Work/Home
+PowerColor Radeon Rx 5700 Xt 8GB GDDR6 Graphics Card,PowerColor, Radeon RX 5700 XT , 8 GB ,4, 1905 MHz ,37598.4,8,1905,Basic-Level,Work/Home
+"ASUS TUF Gaming 3 AMD Radeon RX 5700XT OC Edition Gaming Graphics Card (PCIe 4.0, 8GB, GDDR6, HDMI, DisplayPort, Axial-tech Fan Design",ASUS, TUF RX 5700XT OC Edition , 8 GB ,4, 1980 MHz ,135908.8,8,1980,Basic-Level,Work/Home
+PowerColor Red Dragon AMD Radeon RX 5700 XT 8GB AXRX 5700XT 8GBD6-3DHR/OC,PowerColor, Red Dragon RX 5700 XT , 8 GB ,4, 1905 MHz ,37599.2,8,1905,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2070 8GB GDRR6 256-Bit HDMI/DP DirectX 12 VR Ready Ray Tracing Turing Architecture HDCP Graphics Card ,MSI, GeForce RTX 2070 , 8 GB ,4, 1620 MHz ,34320,8,1620,Basic-Level,Work/Home
+MSI GAMING GeForce RTX 2070 8GB GDRR6 256-bit HDMI/DP/USB Ray Tracing Turing Architecture HDCP Graphics Card,MSI, GeForce RTX 2070 VENTUS 8G , 8 GB ,4, 1620 MHz ,47999.2,8,1620,Basic-Level,Work/Home
+ZOTAC GAMING GeForce RTX 2070 AMP Extreme 8GB GDDR6 256-bit RGB LED Metal Wrap Backplate Graphics Card,ZOTAC, GAMING GeForce RTX 2070 AMP Extreme , 8 GB ,4, 1860 MHz ,103120,8,1860,Basic-Level,Work/Home
+"EVGA GeForce RTX 3060 XC Gaming, 12GB GDDR6, Dual-Fan, Metal Backplate",EVGA, RTX 3060 XC , 12 GB ,4, 1882 MHz ,33199.2,12,1882,Basic-Level,Gaming or High-end
+MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Twin-Frozr Torx Fan Ampere RGB OC Graphics Card (RTX 3060 Gaming X 12G),MSI, GeForce RTX 3060 Gaming X 12G , 12 GB ,4, 1837 MHz ,34652,12,1837,Basic-Level,Gaming or High-end
+"ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control",ZOTAC, RTX 3060 Twin Edge OC , 12 GB ,4, 1807 MHz ,35366.4,12,1807,Basic-Level,Gaming or High-end
+"ASUS Phoenix NVIDIA GeForce RTX 3060 Gaming Graphics Card (PCIe 4.0, 12GB GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design",ASUS, PH-RTX3060-12G , 12 GB ,4, 1807 MHz ,39920,12,1807,Basic-Level,Gaming or High-end
+MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Triple Fan Ampere OC Graphics Card (RTX 3060 Ventus 3X 12G OC),MSI, RTX 3060 Ventus 3X 12G OC , 12 GB ,4, 1807 MHz ,34800,12,1807,Basic-Level,Gaming or High-end
+"ZOTAC Gaming GeForce RTX 3060 Twin Edge 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control",ZOTAC, RTX 3060 Twin Edge , 12 GB ,4, 1777 MHz ,39920,12,1777,Basic-Level,Gaming or High-end
+Nvidia Geforce RTX 2060 Super Founders Edition Graphics Card,NVIDIA, Geforce RTX 2060 , 8 GB ,4, 1650 MHz ,35920,8,1650,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2060 Super 8GB GDRR6 256-bit HDMI/DP G-SYNC Turing Architecture Overclocked Graphics Card ,MSI, RTX 2060 Super Gaming X , 8 GB ,4, 1695 MHz ,35928,8,1695,Basic-Level,Work/Home
+"ASUS Dual NVIDIA GeForce RTX 2060 Super EVO V2 OC Edition Gaming Graphics Card (PCIe 3.0, 8GB GDDR6 Memory, HDMI, DisplayPort, DVI-D, Axial-Tech Fan, 0dB Technology, DirectCU II, Auto-Extreme)",ASUS, GeForce RTX 2060 Super EVO , 8 GB ,4, 1695 MHz ,33571.2,8,1695,Basic-Level,Work/Home
+"Gigabyte GeForce RTX 2060 SUPER WINDFORCE OC 8G Graphics Card, 2X Windforce Fans, 8GB 256-bit GDDR6",Gigabyte, GeForce RTX 2060 SUPER , 8 GB ,4, 1680 MHz ,32335.2,8,1680,Basic-Level,Work/Home
+"EVGA GeForce RTX 2060 Super SC Ultra Gaming, 8GB GDDR6, Dual HDB Fans",EVGA, GeForce RTX 2060 SUPER , 8 GB ,4, 1680 MHz ,102800,8,1680,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2060 Super 8GB GDRR6 256-Bit HDMI/DP G-Sync Turing Architecture Overclocked Graphics Card ,MSI, GeForce RTX 2060 Super , 8 GB ,4, 1665 MHz ,32888,8,1665,Basic-Level,Work/Home
+"ZOTAC GAMING GeForce RTX 2060 SUPER MINI 8GB GDDR6 256-bit 14Gbps Gaming Graphics Card, Ice Storm 2.0, Super Compact",ZOTAC, GeForce RTX 2060 SUPER , 8 GB ,4, 1650 MHz ,33599.2,8,1650,Basic-Level,Work/Home
+PowerColor AMD Radeon RX 5700 8GB GDDR6 AXRX 5700 8GBD6-M3DH,PowerColor, AXRX 5700 8GBD6-M3DH , 8 GB ,4, 1725 MHz ,71920,8,1725,Basic-Level,Work/Home
+"EVGA 06G-P4-2067-KR GeForce RTX 2060 SC Ultra Gaming, 6GB GDDR6, Dual HDB Fans",EVGA, GeForce RTX 2060 SC Ultra Gaming , 6 GB ,4, 1755 MHz ,28800,6,1755,Basic-Level,Work/Home
+ASUS DUAL RTX 2060 Overclocked 6G VR Ready Gaming Graphics Card â?Turing Architecture,Asus, DUAL-RTX2060-O6G , 6 GB ,4, 1785 MHz ,38320,6,1785,Basic-Level,Work/Home
+"EVGA GeForce RTX 2060 KO Ultra Gaming, 6GB GDDR6, Dual Fans",EVGA, GeForce RTX 2060 , 6 GB ,4, 1755 MHz ,21599.2,6,1755,Basic-Level,Work/Home
+ASUS TUF Gaming GeForce RTX 2060 Overclocked 6GB Edition 4K VR Ready HDMI 2.0b DP 1.4 Graphics Card,Asus, TUF-RTX2060-O6G-GAMING , 6 GB ,4, 1740 MHz ,129296.8,6,1740,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2060 6GB GDRR6 192-bit HDMI/DP Ray Tracing Turing Architecture VR Ready Graphics Card ,MSI, GeForce RTX 2060 VENTUS XS , 6 GB ,4, 1710 MHz ,47920,6,1710,Basic-Level,Work/Home
+MSI Gaming GeForce RTX 2060 6GB GDRR6 192-bit HDMI/DP Ray Tracing Turing Architecture VR Ready Graphics Card,MSI, GeForce RTX 2060 VENTUS 6G OC , 6 GB ,4, 1710 MHz ,31679.2,6,1710,Basic-Level,Work/Home
+ASUS GeForce RTX 2060 Overclocked 6G GDDR6 Dual-Fan EVO Edition VR Ready HDMI DisplayPort DVI Graphics Card ,ASUS, GeForce RTX 2060 , 6 GB ,4, 1785 MHz ,25896.8,6,1785,Basic-Level,Work/Home
+"GIGABYTE GeForce RTX 2060 Windforce OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-bit GDDR6",Gigabyte, GeForce RTX 2060 , 6 GB ,4, 1770 MHz ,19577.6,6,1770,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce RTX 2060 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact",ZOTAC, GeForce RTX 2060 , 6 GB ,4, 1680 MHz ,23999.2,6,1680,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce RTX 2060 Twin Fan 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, IceStorm 2.0",ZOTAC, GeForce RTX 2060 , 6 GB ,4, 1680 MHz ,38399.2,6,1680,Basic-Level,Work/Home
+ASUS ROG STRIX GeForce RTX 2060 Overclocked 6G GDDR6 HDMI DP 1.4 Gaming Graphics Card (ROG-STRIX-RTX-2060-O6G),Asus, ROG-STRIX-RTX2060-O6G-GAMING , 6 GB ,4, 1860 MHz ,48000,6,1860,Basic-Level,Work/Home
+"GIGABYTE GeForce RTX 2060 Gaming OC Pro 6G Graphics Card, 3X Windforce Fans, 6GB 192-bit GDDR6, GV-N2060GAMINGOC PRO-6GD Video Card",Gigabyte, GeForce RTX 2060 , 6 GB ,4, 1830 MHz ,105520,6,1830,Basic-Level,Work/Home
+"EVGA GeForce RTX 2060 XC Black Edition Gaming, 6GB GDDR6, HDB Fan Graphics Card",EVGA, GeForce RTX 2060 XC Black Edition , 6 GB ,4, 1680 MHz ,41975.2,6,1680,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1080 8GB GDDR5X SLI DirectX 12 VR Ready Graphics Card (GTX 1080 GAMING X 8G),MSI, GTX 1080 GAMING X 8G , 8 GB ,3, 1847 MHz ,26640,8,1847,Basic-Level,Work/Home
+Sapphire Radeon Pulse RX 5600 XT 14GBPS 6GB GDDR6 HDMI / Triple DP OC w/ backplate (UEFI) PCIe 4.0 Graphics Card,SapphireTechnology, Radeon RX 5600 XT , 6 GB ,4, 1750 MHz ,29600,6,1750,Basic-Level,Work/Home
+XFX RX 5600 XT THICC II PRO -14GBPS 6GB GDDR6 BOOST UP TO 1620MHz 3xDP HDMI Graphics Card ,XFX, RX 5600 XT , 6 GB ,4, 1620 MHz ,38320,6,1620,Basic-Level,Work/Home
+MSI Gaming Radeon RX 5600 XT Boost Clock: 1600 MHz 192-bit 6GB GDDR6 DP/HDMI Dual Torx 3.0 Fans Freesync DirectX 12 Ready Graphics Card,MSI, Radeon RX 5600 XT , 6 GB ,4, 1420 MHz ,25128,6,1420,Basic-Level,Work/Home
+"ASUS ROG Strix AMD Radeon RX 5600 XT OC Edition Gaming Graphics Card (PCIe 4.0, 6GB, GDDR6 Memory, HDMI, DisplayPort, Axial-tech Fan Design",ASUS, ROG Strix RX 5600 XT OC Edition , 6 GB ,4, 1770 MHz ,31920,6,1770,Basic-Level,Work/Home
+"EVGA GeForce 08G-P4-5671-KR, GTX 1070 Ti SC GAMING ACX 3.0 Black Edition, 8GB GDDR5, EVGA OCX Scanner OC, White LED, DX12OSD Support (PXOC) Graphics Card",EVGA, 08G-P4-5671-KR , 8 GB ,2, 1683 MHz ,19317.6,8,1683,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1070 Ti 8GB GDRR5 256-bit HDCP Support DirectX 12 SLI Twin Frozr Heat Pipes Dual TORX 2.0 Fan VR Ready Graphics Card (GTX 1070 TI Gaming 8G),MSI, GeForce GTX 1070 TI GAMING 8G , 8 GB ,2, 1683 MHz ,27920,8,1683,Basic-Level,Work/Home
+GIGABYTE GeForce GTX 1660 Ti Gaming OC 6G 192-bit GDDR6 DisplayPort 1.4 HDMI 2.0B with Windforce 3X Cooling System Graphic Cards,Gigabyte, GV-N166TGAMING OC-6GD , 6 GB ,4, 1860 MHz ,31920,6,1860,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1660 Ti 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GeForce GTX 1660 Ti , 6 GB ,4, 1875 MHz ,27920,6,1875,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1660 Ti 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GeForce GTX 1660 TI ARMOR 6G OC , 6 GB ,4, 1860 MHz ,43159.2,6,1860,Basic-Level,Work/Home
+Asus TUF Gaming GeForce GTX 1660Ti Overclocked 6GB Dual-Fan Edition HDMI DP DVI Gaming Graphics Card,Asus, TUF-GTX1660TI-O6G-Gaming , 6 GB ,4, 1830 MHz ,45999.2,6,1830,Basic-Level,Work/Home
+ASUS GeForce GTX 1660 Ti 6GB Dual-fan Overclocked Edition VR Ready Dual HDMI DP 1.4 Gaming Graphics Card (Dual-GTX1660TI-O6G),Asus, 90YV0CT2-M0AA00 , 6 GB ,4, 1830 MHz ,26399.2,6,1830,Basic-Level,Work/Home
+ZOTAC Gaming GeForce GTX 1660 Ti AMP 6GB GDDR6 192-bit Graphics Card Super Compact IceStorm 2.0 Cooling,ZOTAC, ZT-T16610D-10M , 6 GB ,4, 1860 MHz ,79108.8,6,1860,Basic-Level,Work/Home
+GIGABYTE GeForce GTX 1660 Ti OC 6G 192-bit GDDR6 DisplayPort 1.4 HDMI 2.0B with Windforce 2X Cooling System Graphic Cards,Gigabyte, GeForce GTX 1660 Ti , 6 GB ,4, 1800 MHz ,29593.6,6,1800,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1660 Ti 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GeForce GTX 1660 Ti VENTUS XS 6G OC , 6 GB ,4, 1830 MHz ,47999.2,6,1830,Basic-Level,Work/Home
+"EVGA GeForce GTX 1660 Ti XC, Overclocked, 2.75 Slot Extreme Cool, 65C Gaming, 6GB GDDR6, 06G-P4-1263-KR",EVGA, GeForce GTX 1660 Ti XC , 6 GB ,4, 1845 MHz ,27920,6,1845,Basic-Level,Work/Home
+ZOTAC Gaming GeForce GTX 1660 Ti 6GB GDDR6 192-Bit Gaming Graphics Card Super Compact - ZT-T16610F-10L,ZOTAC, GeForce GTX 1660 Ti , 6 GB ,4, 1770 MHz ,31920,6,1770,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1660 Super 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card ,MSI, GeForce GTX 1660 , 6 GB ,4, 1815 MHz ,21120,6,1815,Basic-Level,Work/Home
+Asus TUF Gaming GeForce GTX 1660 Super Overclocked 6GB Edition HDMI DP DVI Gaming Graphics Card ,ASUS, GeForce GTX 1660 SUPER , 6 GB ,4, 1845 MHz ,22399.2,6,1845,Basic-Level,Work/Home
+"Gigabyte GeForce GTX 1660 Super OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-bit GDDR6, Video Card",Gigabyte, GeForce GTX 1660 Super , 6 GB ,4, 1830 MHz ,29584,6,1830,Basic-Level,Work/Home
+"EVGA GeForce GTX 1660 Super Sc Ultra Gaming, 6GB GDDR6, Dual Fan, Metal Backplate",EVGA, GeForce GTX 1660 SUPER , 6 GB ,4, 1830 MHz ,19199.2,6,1830,Basic-Level,Work/Home
+"Gigabyte GeForce GTX 1660 Super Gaming OC 6G Graphics Card, 3X Windforce Fans, 6GB 192-bit GDDR6, OC-6GD Video Card",Gigabyte, GeForce GTX 1660 Super , 6 GB ,4, 1860 MHz ,54320,6,1860,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1660 Super 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GeForce GTX 1660 SUPER , 6 GB ,4, 1830 MHz ,26332.8,6,1830,Basic-Level,Work/Home
+Asus GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Graphics Card ,ASUS, GeForce GTX 1660 Super , 6 GB ,4, 1860 MHz ,23247.2,6,1860,Basic-Level,Work/Home
+ASUS ROG Strix GeForce GTX 1660 Super Advanced 6GB Edition GDDR6 HDMI 2.0 DP 1.4 Gaming Graphics Card,ASUS, ROG Strix GeForce GTX 1660 Super , 6 GB ,4, 1845 MHz ,24897.6,6,1845,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce GTX 1660 Super 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact",ZOTAC, Geforce GTX 1660 SUPER TWIN FAN , 6 GB ,4, 1785 MHz ,21893.6,6,1785,Basic-Level,Work/Home
+Asus GeForce GTX 1660 Super Overclocked 6GB Phoenix Fan Edition HDMI DP DVI Graphics Card ,ASUS, GeForce GTX 1660 Super , 6 GB ,4, 1830 MHz ,19816.8,6,1830,Basic-Level,Work/Home
+ASUS GeForce GTX 1070 8GB ROG Strix OC Edition Graphic Card STRIX-GTX1070-O8G-GAMING,Asus, STRIX-GTX1070-O8G-GAMING , 8 GB ,2, 1860 MHz ,331688,8,1860,Basic-Level,Work/Home
+ZOTAC GeForce GTX 1070 Mini 8GB GDDR5 VR Ready Super Compact Gaming Graphics Card (ZT-P10700G-10M),ZOTAC, ZT-P10700G-10M , 8 GB ,2, 1708 MHz ,15199.2,8,1708,Basic-Level,Work/Home
+"EVGA GeForce GTX 1070 FTW GAMING ACX 3.0, 8GB GDDR5, RGB LED, 10CM FAN, 10 Power Phases, Double BIOS, DX12 OSD Support (PXOC) Graphics Card",EVGA, 08G-P4-6276-KR , 8 GB ,2, 1797 MHz ,60202.4,8,1797,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1070 8GB GDDR5 SLI DirectX 12 VR Ready Graphics Card ,MSI, GeForce GTX 1070 , 8 GB ,2, 797 MHz ,23075.2,8,797,Basic-Level,Work/Home
+"EVGA GeForce GTX 1660 XC Black Gaming, 6GB GDDR5, HDB Fan",EVGA, 06G-P4-1161-KR , 6 GB ,2, 1785 MHz ,25920,6,1785,Basic-Level,Work/Home
+MSI GTX 1660 Ventus XS 6GB GDDR6 Graphics Card,MSI, GTX 1660 Ventus , 6Â GB ,4, 1830 MHz ,19919.2,6,1830,Basic-Level,Work/Home
+"EVGA GeForce GTX 1660 XC Ultra Gaming, 6GB GDDR5, HDB Fan, 06G-P4-1167-KR",EVGA, GTX 1660 XC Ultra Gaming , 6 GB ,2, 1845 MHz ,35575.2,6,1845,Basic-Level,Work/Home
+"EVGA GeForce GTX 1660 SC Ultra Gaming, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan",EVGA, GeForce GTX 1660 SC Ultra Gaming , 6 GB ,2, 1830 MHz ,18399.2,6,1830,Basic-Level,Work/Home
+"EVGA 06G-P4-1163-KR GeForce Graphics Cards, GTX 1660, XC Gaming",EVGA, 06G-P4-1163-KR , 6 GB ,2, 1830 MHz ,27857.6,6,1830,Basic-Level,Work/Home
+"Gigabyte GeForce GTX 1660 OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-Bit GDDR5, Video Card",Gigabyte, GeForce GTX 1660 , 6 GB ,2, 1830 MHz ,26853.6,6,1830,Basic-Level,Work/Home
+"ZOTAC Gaming GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, Super Compact, ZT-T16600F-10L",ZOTAC, GeForce GTX 1660 , 6 GB ,2, 1785 MHz ,60000,6,1785,Basic-Level,Work/Home
+"GIGABYTE Radeon RX 5500 XT OC 8G Graphics Card, PCIe 4.0, 8GB 128-Bit GDDR6",Gigabyte, Radeon RX 5500 XT , 8 GB ,4, 1845 MHz ,20805.6,8,1845,Basic-Level,Work/Home
+"VisionTek Radeon RX 5500 XT Graphic Card - 8GB GDDR6-1.61 GHz Core, 128 bit Bus Width, DisplayPort, HDMI, DVI",VisionTek, RX 5500 XT , 8 GB ,4, 1845 MHz ,23600,8,1845,Basic-Level,Work/Home
+ASRock AMD Radeon RX5500XT Video Board GDDR6 4GB CHALLENGER Series RX5500XT Challenger D 4G OC,ASRock, RXRX 5500 XT Challenger D 4G OC , 4 GB ,4, 1845 MHz ,20796,4,1845,Basic-Level,Student
+ASUS ROG Strix AMD Radeon RX 5500XT Overclocked 8G GDDR6 1440p HDMI DisplayPort Gaming Graphics Card,ASUS, ROG Strix RX 5500XT OC , 8 GB ,4, 1865 MHz ,23920,8,1865,Basic-Level,Work/Home
+"Gigabyte Radeon RX 5500 XT OC 4G Graphics Card, PCIe 4.0, 4GB 128-Bit GDDR6, Video Card",Gigabyte, RX 5500 XT OC 4G , 4 GB ,4, 1845 MHz ,15999.2,4,1845,Basic-Level,Student
+ASUS AMD Radeon RX 5500XT Overclocked O8G GDDR6 Dual Fan EVO Edition HDMI DisplayPort Gaming Graphics Card,ASUS, RX 5500XT EVO Edition OC 8G , 8 GB ,4, 1865 MHz ,63972.8,8,1865,Basic-Level,Work/Home
+MSI Gaming Radeon RX 5500 XT Boost Clock: 1845 MHz 128-bit 8GB GDDR6 DP/HDMI Dual Torx 3.0 Fans Crossfire Freesync VR Ready Graphics Card,MSI, RX 5500 XT GAMING X 8G , 8 GB ,4, 1845 MHz ,41200,8,1845,Basic-Level,Work/Home
+Asus TUF Gaming GeForce GTX 1650 Super Overclocked 4GB Edition HDMI DP DVI Gaming Graphics Card ,ASUS, GeForce GTX 1650 Super , 4 GB ,4, 1800 MHz ,37320,4,1800,Basic-Level,Student
+MSI Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GTX 1650 Super Gaming X , 4 GB ,4, 1755 MHz ,50580.8,4,1755,Basic-Level,Student
+MSI GeForce GTX 1650 Super Ventus XS OC Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card,MSI, GeForce GTX 1650 Super Ventus XS OC , 4 GB ,4, 1740 MHz ,51199.2,4,1740,Basic-Level,Student
+"ZOTAC Gaming GeForce GTX 1650 Super Twin Fan 4GB GDDR6 128-Bit Gaming Graphics Card, Super Compact",ZOTAC, GeForce GTX 1650 Super , 4 GB ,4, 1725 MHz ,31120,4,1725,Basic-Level,Student
+ASUS GeForce GTX 1650 Super Overclocked 4GB Phoenix Fan Edition HDMI DP DVI Graphics Card,ASUS, GeForce GTX 1650 Super , 4 GB ,4, 1770 MHz ,19972.8,4,1770,Basic-Level,Student
+"EVGA GeForce GTX 1650 Super SC Ultra Gaming, 4GB GDDR6, Dual Fan",EVGA, GeForce GTX 1650 Super , 4 GB ,4, 1755 MHz ,15999.2,4,1755,Basic-Level,Student
+"Gigabyte GeForce GTX 1650 Super OC 4G Graphics Card, 90mm Fan, 4GB 128-Bit GDDR6",Gigabyte, GeForce GTX 1650 Super , 4 GB ,4, 1740 MHz ,15916.8,4,1740,Basic-Level,Student
+XFX RX-590P8DFD6 Radeon RX 590 Fatboy 8GB OC+ 1580MHz DDR5 3xDP HDMI DVI Graphic Cards,XFX, Radeon RX 590 , 8 GB ,2, 1600 MHz ,24000,8,1600,Basic-Level,Work/Home
+Sapphire Radeon Nitro+ RX 590 8GB GDDR5 Dual HDMI/ DVI-D/ Dual DP OC with Backplate Special Edition (UEFI) PCI-E Graphic Cards 11289-01-20G,Sapphire, Radeon RX 590 , 8 GB ,2, 1560 MHz ,71908.8,8,1560,Mid-Range,Work/Home
+"XFX Radeon RX 580 GTS XXX Edition 1386MHz OC+, 8GB GDDR5, VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card ",XFX, Radeon RX 580 , 8Â GB ,2, 1386 MHz ,39920,8,1386,Mid-Range,Work/Home
+MSI VGA Graphic Cards,MSI, Radeon RX 580 , 8 GB ,2, 1366 MHz ,51996,8,1366,Mid-Range,Work/Home
+Sapphire Pulse Radeon RX 580 8GB GDDR5 Graphics Card,SapphireTechnology, Radeon RX 580 , 8Â GB ,2, 1366 MHz ,29359.2,8,1366,Basic-Level,Work/Home
+ASUS Radeon RX 580 8GB Dual-Fan OC Edition GDDR5 DP HDMI DVI VR Ready AMD Graphics Card ,ASUS, Radeon RX 580 , 8 GB ,2, 1380 MHz ,35040,8,1380,Mid-Range,Work/Home
+"XFX Radeon RX 580 GTS Black Edition 1405MHz OC+, 8gb 256bit GDDR5, DX12 VR Ready, Double Dissipation, Dual BIOS, 3xDP HDMI DVI",XFX, RX 580 GTS Black Edition , 8 GB ,2, 1405 MHz ,42396,8,1405,Mid-Range,Work/Home
+PowerColor AMD Radeon RED DRAGON RX 580 8GB GDDR5 1 x DL DVI-D / 1 x HDMI / 3 x DisplayPort Graphics Card,PowerColor, RX 580 , 8 GB ,2, 1350 MHz ,23120,8,1350,Basic-Level,Work/Home
+Gigabyte Radeon RX 580 Gaming 4GB Graphic Cards ,Gigabyte, RX 580. GAMING 4GD , 4 GB ,2, 1355 MHz ,26399.2,4,1355,Basic-Level,Student
+MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphics Card,MSI, Radeon RX 580 8G V1 , 8 GB ,2, 1340 MHz ,59920,8,1340,Mid-Range,Work/Home
+XFX GTS XXX Edition RX 580 4GB OC+ 1386MHz DDR5 w/Backplate 3xDP HDMI DVI,XFX, RX 580 XXX Edition , 4 GB ,2, 1386 MHz ,8720,4,1386,Basic-Level,Student
+MSI Gaming Radeon RX 580 256-bit 4GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card,MSI, Radeon RX 580 GAMING X 4G , 4 GB ,2, 1393 MHz ,63999.2,4,1393,Basic-Level,Student
+MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphics Card,MSI, RX 580 ARMOR MK2 8G OC , 8 GB ,2, 1380 MHz ,19120,8,1380,Basic-Level,Work/Home
+"XFX Radeon RX 580 GTS Black Edition 1425MHz OC+, 8GB GDDR5, VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card",XFX, RX 580 GTS Black Edition , 8 GB ,2, 1425 MHz ,96000,8,1425,Basic-Level,Work/Home
+ASUS Radeon RX 580 O4G Dual-Fan OC Edition GDDR5 DP HDMI DVI VR Ready AMD Graphics Card,ASUS, DUAL RX 580 O4G , 4 GB ,2, 1380 MHz ,54399.2,4,1380,Basic-Level,Student
+Gigabyte Radeon RX 580 Gaming 8GB Graphic Cards ,Gigabyte, RX 580 8GD , 8 GB ,2, 1355 MHz ,42399.2,8,1355,Mid-Range,Work/Home
+ASUS ROG-STRIX-RX580-O8G-GAMINGOC Edition GDDR5 DP HDMI DVI VR Ready AMD Graphics Card,ASUS, ROG STRIX RX580 O8G , 8 GB ,2, 1380 MHz ,22319.2,8,1380,Basic-Level,Work/Home
+MSI Gaming Radeon RX 580 256-bit 4GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card,MSI, RX 580 ARMOR 4G OC , 4 GB ,2, 1366 MHz ,11919.2,4,1366,Basic-Level,Student
+Sapphire Nitro+ Radeon RX 580 DirectX 12 100411NT+4G-2L 4GB 256-Bit GDDR5 CrossFireX ATX Video Card,SapphireTechnology, RX 580 Nitro+ , 4 GB ,2, 1411 MHz ,39908.8,4,1411,Basic-Level,Student
+ASUS PH-GTX1060-3G GeForce GTX 1060 3GB Phoenix Fan Edition VR Ready HDMI DP DVI Graphics Card,Asus, PH-GTX1060-3G , 3 GB ,2, 1708 MHz ,15840,3,1708,Basic-Level,Student
+"EVGA GeForce GTX 1060 3GB GAMING, ACX 2.0 (Single Fan), 3GB GDDR5, DX12 OSD Suppor Graphics Cards",EVGA, GeForce GTX 1060 3GB , 3 GB ,2, 1708 MHz ,17599.2,3,1708,Basic-Level,Student
+MSI GAMING GeForce GTX 1060 6GB GDRR5 192-bit HDCP Support DirectX 12 Dual TORX 2.0 Fan VR Ready Graphics Card ,MSI,  GeForce GTX 1060 6GB , 6 GB ,2, 1809 MHz ,17520,6,1809,Basic-Level,Work/Home
+PowerColor Red Devil AMD Radeon RX570 4GB GDDR5 AXRX 570 4GBD5-3DH/OC,PowerColor, AXRX 570 4GBD5-3DH/OC , 4 GB ,2, 1320 MHz ,42880,4,1320,Basic-Level,Student
+MSI Gaming Radeon RX 570 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card ,MSI, Radeon RX 570 ARMOR 8G OC , 8 GB ,2, 1268 MHz ,27999.2,8,1268,Basic-Level,Work/Home
+XFX RX 570 4GB GDDR5 RS XXX Edition PCI-Express 3.0 Graphics Card ,XFX, Radeon RX 570 , 4 GB ,2, 1284 MHz ,13839.2,4,1284,Basic-Level,Student
+"XFX Radeon RX 570 RS XXX Edition 1286MHz, 8gb GDDR5, DX12 VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card",XFX, Radeon RX 570 , 8 GB ,2, 1286 MHz ,28799.2,8,1286,Basic-Level,Work/Home
+MSI Gaming Radeon RX 570 256-bit 4GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card,MSI, RX 570 GAMING X 4G , 4 GB ,2, 1293 MHz ,6720,4,1293,Basic-Level,Student
+ASUS ROG Strix Radeon Rx 570 O4G Gaming OC Edition GDDR5 DP HDMI DVI VR Ready AMD Graphics Card (ROG-STRIX-RX570-O4G-GAMING),ASUS, ROG Strix Rx 570 O4G , 4 GB ,2, 1310 MHz ,50427.2,4,1310,Basic-Level,Student
+MSI Gaming Radeon RX 570 256-bit 4GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card,MSI, RX 570 ARMOR 4G OC , 4 GB ,2, 1244 MHz ,27920,4,1244,Basic-Level,Student
+ASUS ROG Strix Radeon RX570 O8G Gaming GDDR5 DP HDMI DVI VR Ready AMD Graphics Card ,ASUS, ROG Strix RX570 O8G , 8 GB ,2, 1310 MHz ,15200,8,1310,Basic-Level,Work/Home
+Gigabyte Radeon RX 570 Gaming 4GB Graphic Cards GV-RX570GAMING-4GD,Gigabyte, Radeon RX 570 , 4 GB ,2, 1255 MHz ,14320,4,1255,Basic-Level,Student
+MSI Gaming Radeon RX 570 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphcis Card,MSI, Radeon RX 570 ARMOR MK2 8G OC , 8 GB ,2, 1281 MHz ,23999.2,8,1281,Basic-Level,Work/Home
+MSI Gaming GeForce GTX 1650 128-Bit HDMI/DP 4GB GDRR5 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card ,MSI, GeForce GTX 1650 , 4 GB ,2, 1860 MHz ,19920,4,1860,Basic-Level,Student
+ASUS GeForce GTX 1650 4GB Phoenix Fan Overclocked Edition HDMI DP DVI Graphics Card,ASUS, GeForce GTX 1650 , 4Â GB ,2, 1710 MHz ,15999.2,4,1710,Basic-Level,Student
+MSI Gaming GeForce GTX 1650 128-Bit HDMI/DP 4GB GDRR5 HDCP Support DirectX 12 VR Ready OC Graphics Card ,MSI, GeForce GTX 1650 , 4 GB ,2, 1740 MHz ,14720,4,1740,Basic-Level,Student
+"Gigabyte GeForce GTX 1650 OC 4G Graphics Card, 2X Windforce Fans, 4GB 128-Bit GDDR5, Video Card",Gigabyte, GeForce GTX 1650 , 4 GB ,2, 1710 MHz ,22520,4,1710,Basic-Level,Student
+"ZOTAC GeForce GTX 1050 Ti Mini, 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card",ZOTAC, ZT-P10510A-10L , 4 GB ,2, 1417 MHz ,32799.2,4,1417,Basic-Level,Student
+MSI Computer Video Card ,MSI, GeForce GTX 1050 Ti , 4Â GB ,2, 1455 MHz ,13159.2,4,1455,Basic-Level,Student
+MSI GTX 1050 TI 4GT LP Graphic Cards,MSI, GTX 1050 TI 4GT LP , 4 GB ,2, 1392 MHz ,18787.2,4,1392,Basic-Level,Student
+Gigabyte GTX 1050 Ti Windforce OC 4GB GDDR5 128-bit PCI-E Graphic Card,Gigabyte, GV-N105TWF2OC-4GD , 4 GB ,2, 1468 MHz ,10917.6,4,1468,Basic-Level,Student
+MSI Computer Video Card (GTX 1050 TI 4G OC),MSI, GeForce GTX 1050 TI 4G OC , 4 GB ,2, 1455 MHz ,10497.6,4,1455,Basic-Level,Student
+Asus GeForce GTX 1050 Ti 4GB Phoenix Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card,ASUS, GeForce GTX 1050 Ti , 4Â GB ,2, 1392 MHz ,14399.2,4,1392,Basic-Level,Student
+"MSI Computer Video Graphic Cards GeForce GTX 1050 TI GAMING X 4G, 4GB",MSI, GeForce GTX 1050 TI GAMING X 4G , 4 GB ,2, 1493 MHz ,14269.6,4,1493,Basic-Level,Student
+MSI GeForce GTX 1050 Ti Gaming graphics card with Twin Frozr VI cooling system,MSI, GeForce GTX 1050 Ti , 4Â GB ,2, 1493 MHz ,15679.2,4,1493,Basic-Level,Student
+Sapphire Technology Radeon Pulse RX 550 4GB GDDR5 HDMI/ DVI-D/ DP OC (UEFI) PCI-E Graphics Card,SapphireTechnology, Radeon Pulse RX 550 , 4 GB ,2, 1500 MHz ,27908.8,4,1500,Basic-Level,Student
+Gigabyte Nvidia GeForce GT 1030 OC 2G Graphics Card,Gigabyte, GeForce GT 1030 , 2 GB ,2, 1544 MHz ,9827.2,2,1544,Basic-Level,Student
+MSI GAMING GeForce GT 710 2GB GDRR3 64-bit HDCP Support DirectX 12 OpenGL 4.5 Heat Sink Low Profile Graphics Card,MSI, GT 710 2GD3H LP , 2 GB ,0, 954 MHz ,11199.2,2,954,Basic-Level,Student
+MSI Gaming GeForce GT 710 2GB GDRR3 64-bit HDCP Support DirectX 12 OpenGL 4.5 Single Fan Low Profile Graphics Card,MSI, GT 710 2GD3 LP , 2 GB ,0, 1600 MHz ,5599.2,2,1600,Basic-Level,Student
+MSI GAMING GeForce GT 710 1GB GDRR3 64-bit HDCP Support DirectX 12 OpenGL 4.5 Heat Sink Low Profile Graphics Card ,MSI, GeForce GT 710 , 1Â GB ,1, 1000 MHz ,4096.8,1,1000,Basic-Level,Student
+Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card,Gigabyte, GV-N1060WF2OC-3GD , 3 GB ,2, 1797 MHz ,15999.2,3,1797,Basic-Level,Student
+Gigabyte Radeon Rx Vega 56 Gaming OC 8G Graphic Card - GV-RXVEGA56GAMING OC-8GD,Gigabyte, GV-RXVEGA56GAMING OC-8GD , 8 GB ,7, 1501 MHz ,45599.2,8,1501,Mid-Range,Work/Home
+"ZOTAC Gaming GeForce GTX 1650 OC 4GB GDDR5 128-Bit Gaming Graphics Card, Super Compact, ZT-T16500F-10L",ZOTAC, ZT-T16500F-10L , 4 GB ,2, 1695 MHz ,19999.2,4,1695,Basic-Level,Student
+"ZOTAC GeForce GTX 1060 AMP Edition, ZT-P10600B-10M, 6GB GDDR5 VR Ready Super Compact Gaming Graphics Card",ZOTAC, GeForce GTX 1060 AMP Edition , 6 GB ,2, 1771 MHz ,22399.2,6,1771,Basic-Level,Work/Home
+"EVGA GeForce RTX 2070 Super FTW3 Ultra+, Overclocked, 2.75 Slot Extreme Cool Triple + iCX2, 65C Gaming, RGB, Metal Backplate, 15.5GHz 8GB GDDR6",EVGA, RTX 2070 Super FTW3 Ultra+ , 8 GB ,4, 1815 MHz ,71920,8,1815,Basic-Level,Work/Home
+"EVGA GeForce RTX 2070 Super XC Ultra+, Overclocked, 2.75 Slot Extreme Cool Dual, 70C Gaming, RGB, Metal Backplate, 8GB 15.5GHz GDDR6",EVGA, RTX 2070 Super XC Ultra+ , 8 GB ,4, 1800 MHz ,75920,8,1800,Basic-Level,Work/Home
+PNY GeForce RTX 2080 Super 8GB Blower Graphics Card,PNY, RTX 2080 Super Blower 8GB , 8 GB ,4, 1815 MHz ,54000,8,1815,Basic-Level,Work/Home
+"EVGA GeForce RTX 2080 Super XC Gaming, 8GB GDDR6, RGB LED, Metal Backplate",EVGA, RTX 2080 Super XC , 8 GB ,4, 1830 MHz ,95996,8,1830,Basic-Level,Work/Home
+Sapphire Toxic AMD Radeon RX 6900 XT Extreme Edition PCIe 4.0 Gaming Graphics Card with 16GB GDDR6,SapphireTechnology, RX 6900 XT 16GB Toxic Extreme Edition , 16 GB ,4, 2525 MHz ,175920,16,2525,High-Performance,High-End
+"PowerColor Red Devil AMD Radeon RX 6900 XT Ultimate Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1",PowerColor, RX 6900 XT Ultimate , 16 GB ,4, 2425 MHz ,79996.8,16,2425,High-Performance,High-End
+"ASRock RX6900XT OCF 16G AMD Radeon RX6900XT Graphics Board, 16GB",ASRock, RX 6900 XT 16GB OC Formula , 16 GB ,4, 2475 MHz ,74656,16,2475,Basic-Level,High-End
+ASROCK Radeon RX 6900 XT Phantom Gaming D 16G OC,ASROCK, RX 6900 XT PGD 16G OC , 16 GB ,4, 2340 MHz ,71939.2,16,2340,Basic-Level,High-End
+"XFX Speedster MERC319 AMD Radeon RX 6900 XT Ultra Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2xDP, USB-C, AMD RDNA 2 ",XFX, Speedster MERC319 RX 6900 XT Ultra , 16 GB ,4, 2340 MHz ,199999.2,16,2340,High-Performance,High-End
+Sapphire Technology Nitro+ AMD Radeon RX 6900 XT Special Edition PCIe 4.0 Gaming Graphics Card with 16GB GDDR6,SapphireTechnology, RX 6900 XT Nitro+ Special Edition , 16 GB ,4, 2365 MHz ,74239.2,16,2365,Basic-Level,High-End
+"PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing",PowerColor, Red Devil RX 6900 XT , 16 GB ,4, 2340 MHz ,175999.2,16,2340,High-Performance,High-End
+"ASUS ROG Strix LC AMD Radeon RX 6900 XT OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Full-Coverage Cold Plate",ASUS, ROG Strix LC RX 6900 XT OC Edition , 16 GB ,4, 2365 MHz ,111599.2,16,2365,High-Performance,High-End
+XFX AMD Radeon HD 6850 775M 1 GB DDR5 Graphics Card,XFX, Radeon HD 6850 , 1 GB ,2, 1100 MHz ,29520,1,1100,Basic-Level,Student
+PowerColor ATI Radeon HD5450 1 GB DDR3 VGA/DVI/HDMI PCI-Express Video Card 1 GBK3-SH,PowerColor, AX5450 1GBK3-SH , 1 GB ,0, 1100 MHz ,7999.2,1,1100,Basic-Level,Student
+HIS ATI Radeon HD5450 Silence 1 GB DDR3 VGA/ DVI/ DisplayPort Low Profile PCI-Express Video Card,HIS, HD5450 , 1 GB ,0, 1000 MHz ,7999.2,1,1000,Basic-Level,Student
+PowerColor ATI Radeon HD5450 512 MB DDR3 VGA/DVI/HDMI PCI-Express Video Card,PowerColor, ATI Radeon HD5450 , 0.5 GB ,0, 1000 MHz ,5196,0,1000,Basic-Level,Student
+"VisionTek Radeon 5450 2GB DDR3 (DVI-I, HDMI, VGA) Graphics Card",VisionTek, Radeon 5450 , 2 GB ,0, 1000 MHz ,5199.2,2,1000,Basic-Level,Student
+"Diamond Multimedia AMD Radeon HD 5450 PCI Express GDDR3 1GB (DVI, HDMI, VGA) Low Profile Enhanced Heatsink Video Graphics Card",DiamondMultimedia, 5450PE31G , 1 GB ,0, 1000 MHz ,4399.2,1,1000,Basic-Level,Student
+"GIGABYTE GeForce GTX 1650 Windforce OC 4G Graphics Card, 2X Windforce Fans, 4GB 128-Bit GDDR5, Gv-N1650WF2OC-4GD Video Card",Gigabyte, GeForce GTX 1650 Windforce OC , 4 GB ,2, 1785 MHz ,31920,4,1785,Basic-Level,Student

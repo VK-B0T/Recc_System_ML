@@ -1,0 +1,45 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PCPartRecommender</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='form.css') }}">
+</head>
+<body background="{{url_for('static', filename='bg.jpg') }}">
+    <header>
+        <header class="navbar">
+            <div class="logo">PCPART Recommender</div>
+            <nav>
+            </nav>
+            <div class="auth-links">
+                <a href="#">Log In</a> &nbsp;&nbsp;&nbsp;
+                <a href="#">Register</a>
+            </div>
+        </header>
+    </header>
+    <main class="hero-section">
+        <h1>Pick Parts. Build Your PC. Compare and Share.</h1>
+        <p>We provide part selection, pricing, and compatibility guidance for do-it-yourself computer builders.</p>
+    </main>
+    <div class="form-container">
+        <h2>Select Your Requirements</h2>
+        <form action="./recommendations" method="POST">
+            <label for="budget">Budget:</label>
+            <input type="number" id="budget" name="budget" required>
+            
+            <label for="usage">Usage:</label>
+            <select id="usage" name="usage" required>
+                <option value="Student">Student</option>
+                <option value="Work/Home">Work/Home</option>
+                <option value="Gaming or High-end">Gaming or High-end</option>
+                <option value="High-End">High-End</option>
+            </select>
+            
+            <button type="submit" class="btn">Get Recommendations</button>
+        </form>
+    </div>
+</body>
+</html>

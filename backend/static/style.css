@@ -1,0 +1,37 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f;
+    color: white;
+}
+.results-container h2 {
+    text-align: center;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+.component-card {
+    padding: 15px;
+    background: #333;
+    border-radius: 8px;
+}
+.actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn {
+    background-color: #6495ED;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 0.3s;
+}
+.btn:hover {
+    background-color: #1e90ff;
+}

@@ -1,0 +1,82 @@
+/* General styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1a1a1a;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffc107;
+}
+
+.navbar nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.auth-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.click{
+    width: 72px;
+    height: 70px;
+    position: relative;
+    left: 210px;
+    top: 57px;
+
+}
